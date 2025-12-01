@@ -37,7 +37,7 @@ You can view the full analysis inside the PDF file included in this repository.
 ---
 
 ## 📥 Full Report  
-👉 **[Click here to open the PDF](C:\Users\farha\OneDrive\Desktop\Pizza Sales)** 
+👉 **[file:///C:/Users/farha/Downloads/Pizza%20Sales%20Analysis%20-%20SQL_.pdf]** 
 
 ---
 
