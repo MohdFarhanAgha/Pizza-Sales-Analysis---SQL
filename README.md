@@ -16,9 +16,9 @@ All analysis was performed using **SQL**, focusing on revenue, product performan
 ---
 
 ## ⚙️ Tools & Technologies
-- **SQL (PostgreSQL/MySQL)** — Data Querying & Analysis  
+- **SQL (PostgreSQL)** — Data Querying & Analysis  
 - **DBMS** — Data Storage & Management  
-- **Excel/PDF** — Report Formatting  
+- **Excel** — Report Formatting  
 
 ---
 
@@ -36,10 +36,6 @@ You can view the full analysis inside the PDF file included in this repository.
 
 ---
 
-## 📥 Full Report  
-👉 **[file:///C:/Users/farha/Downloads/Pizza%20Sales%20Analysis%20-%20SQL_.pdf]** 
-
----
 
 ## 🧩 About  
 This project improved my understanding of **sales analytics**, **SQL problem-solving**, and **insight extraction** from raw transactional data.
